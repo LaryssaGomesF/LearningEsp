@@ -17,6 +17,7 @@ The first implementation was a simple traffic light using the GPIO pins of the E
 
 The second implementation was a more sophisticated traffic light using the ESP32 Timer to control the timing of the light changes. This version is more efficient and precise in time control.
 
+![Traffic Light - Timer](https://github.com/LaryssaGomesF/LearningEsp/blob/main/videos/trafficlights.gif)
 
 
 ## Project Structure
