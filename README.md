@@ -23,13 +23,12 @@ The second implementation was a more sophisticated traffic light using the ESP32
 
 The repository is organized to facilitate access to different examples and learned functionalities:
 
-/
-├── gpio/
-│ ├── main/
-│ │ └── main.c
-│ └── ...
-├── Timer/
-│ ├── main/
-│ │ └── main.c
-│ └── ...
+
+├── gpio/ main/ main.c
+
+├── ...
+
+├── Timer/ main/ main.c
+
+
 └── README.md
